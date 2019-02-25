@@ -1,0 +1,45 @@
+.card {
+  margin: 10px;
+  padding: 10px;
+}
+#coach {
+  background-color: #d2efe6;
+}
+
+.btn {
+  padding: 5px;
+  margin: 10px;
+  color: white;
+  background-color: #2a7c62;
+  border-radius: 5px;
+  text-decoration: none;
+  &:hover {
+    color: #dbdbdb;
+    text-decoration: none;
+    opacity: 0.8;
+  }
+}
+
+.form {
+  display: block;
+  width: 100vh;
+  margin: 20px;
+}
+
+
+h1 {
+  font-family: Raleway;
+}
+h3 {
+  font-family: Raleway;
+}
+
+
+a {
+  color: white;
+  &:hover {
+    color: #dbdbdb;
+    text-decoration: none;
+    opacity: 0.8;
+  }
+}
